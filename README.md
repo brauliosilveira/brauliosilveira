@@ -1,6 +1,6 @@
 # Bráulio Silveira
 
-**`Desenvolvedor FullStack`**
+**`Automation Architect & AI Systems Developer`**
 
 Meu canal no YouTube: [Vender pelo Whats](https://www.youtube.com/@venderpelowhats)
 <br/>
