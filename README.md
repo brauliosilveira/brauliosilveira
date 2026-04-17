@@ -4,7 +4,7 @@
 
 Meu canal no YouTube: [Vender pelo Whats](https://www.youtube.com/@venderpelowhats)
 <br/>
-Meu Insta: [@brauliosilveira](https://instagram.com/brauliosilveira).
+Meu Insta: [@brauliosilveira](https://instagram.com/brauliosilveira)
 
 <p align="left">
     <a href="https://www.youtube.com/@venderpelowhats?sub_confirmation=1">
