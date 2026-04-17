@@ -2,7 +2,7 @@
 
 **`Automation Architect & AI Systems Developer`**
 
-Meu canal no YouTube: [Vender pelo Whats](https://www.youtube.com/@venderpelowhats)
+Meu canal no YouTube: [Vender pelo Whats](https://www.youtube.com/@venderpelowhats?sub_confirmation=1)
 <br/>
 Meu Insta: [@brauliosilveira](https://instagram.com/brauliosilveira)
 
@@ -14,7 +14,7 @@ Meu Insta: [@brauliosilveira](https://instagram.com/brauliosilveira)
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCltvPwAyho_vW2zQGdq9bPA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@venderpelowhats">
+    <a href="https://www.youtube.com/@venderpelowhats?sub_confirmation=1">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
