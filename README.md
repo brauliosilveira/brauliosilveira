@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-meu canal no YouTube: [Vender pelo Whats](https://www.youtube.com/@venderpelowhats) e meu Insta: [@brauliosilveira](https://instagram.com/brauliosilveira).
+Meu canal no YouTube: [Vender pelo Whats](https://www.youtube.com/@venderpelowhats)
+Meu Insta: [@brauliosilveira](https://instagram.com/brauliosilveira).
 
 <p align="left">
     <a href="https://www.youtube.com/@venderpelowhats?sub_confirmation=1">
@@ -37,7 +38,7 @@ meu canal no YouTube: [Vender pelo Whats](https://www.youtube.com/@venderpelowha
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -123,7 +124,7 @@ meu canal no YouTube: [Vender pelo Whats](https://www.youtube.com/@venderpelowha
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
