@@ -123,10 +123,9 @@ Meu Insta: [@brauliosilveira](https://instagram.com/brauliosilveira)
 />
 
 <br/>
+<br/>
 
 ---
-
-<br/>
 
 ### Estatísticas
 
