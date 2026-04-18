@@ -1,6 +1,6 @@
 # Bráulio Silveira
 
-**`AI Automation Architect & Backend Developer | APIs, SaaS, WhatsApp, Email, CRM Systems`**
+**`AI Automation Architect & Full-Stack Developer | SaaS, APIs, WhatsApp, Email & CRM Automation`**
 
 Meu canal no YouTube: [Vender pelo Whats](https://www.youtube.com/@venderpelowhats?sub_confirmation=1)
 <br/>
