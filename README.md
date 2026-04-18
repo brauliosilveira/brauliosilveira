@@ -4,8 +4,6 @@
 
 I build automation systems and AI-driven architectures that connect sales, support and operations — turning manual processes into scalable business systems.
 
-<br/>
-
 Meu canal no YouTube: [Vender pelo Whats](https://www.youtube.com/@venderpelowhats?sub_confirmation=1)
 <br/>
 Meu Insta: [@brauliosilveira](https://instagram.com/brauliosilveira)
