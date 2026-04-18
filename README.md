@@ -42,6 +42,13 @@ Instagram: [@brauliosilveira](https://instagram.com/brauliosilveira)
 
 ---
 
+[www.brauliosilveira.com](https://www.brauliosilveira.com)
+[www.botpravender.com](https://www.botpravender.com)
+[www.venderpelowhats.com](www.venderpelowhats.com)
+[www.atendentedigital.com](https://www.atendentedigital.com)
+
+---
+
 ### Estatísticas
 
 <p>
