@@ -1,6 +1,6 @@
 # Bráulio Silveira
 
-**`AI Automation Architect & Full-Stack Developer | SaaS, APIs, WhatsApp, Email & CRM Automation`**
+**`AI Systems Architect | Automation, SaaS & Revenue Systems (WhatsApp, Email, CRM & Multi-Channel)`**
 
 I build automation systems and AI-driven architectures that connect sales, support and operations — turning manual processes into scalable business systems.
 
