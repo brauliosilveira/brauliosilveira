@@ -30,8 +30,14 @@ Linkedin: [in/brauliosilveira](https://www.linkedin.com/in/brauliosilveira/)
 
 ---
 
-[![Live TV Interview | Guest Expert on Artificial Intelligence](https://ytcards.demolab.com/?id=cpebRy3KUG0&title=Live+TV+Interview+%7C+Guest+Expert+on+Artificial+Intelligence&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=350&border_radius=10)](https://www.youtube.com/watch?v=cpebRy3KUG0)
-[![#1 Ranked Video on this topic in Brazil | 300k+ Views | +14k Subscribe](https://ytcards.demolab.com/?id=mtMNN4qEMl8&title=%231+Ranked+Video+on+this+topic+in+Brazil&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=350&border_radius=10)](https://www.youtube.com/watch?v=mtMNN4qEMl8)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=cpebRy3KUG0">
+    <img src="https://ytcards.demolab.com/?id=cpebRy3KUG0&title=Live+TV+Interview+%7C+Guest+Expert+on+Artificial+Intelligence&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=320&border_radius=10&views=Vanguarda+%7C+TV+Master" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=mtMNN4qEMl8">
+    <img src="https://ytcards.demolab.com/?id=mtMNN4qEMl8&title=%231+Ranked+Video+on+this+topic+in+Brazil+%7C+%2B14k+Subscribe&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=320&border_radius=10" />
+  </a>
+</p>
 
 ---
 
