@@ -28,7 +28,7 @@ Linkedin: [in/brauliosilveira](https://www.linkedin.com/in/brauliosilveira/)
     </a> 
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.youtube.com/watch?v=cpebRy3KUG0">
     <img src="https://ytcards.demolab.com/?id=cpebRy3KUG0&title=Live+TV+Interview+%7C+Guest+Expert+on+Artificial+Intelligence&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=2&width=400&border_radius=10" />
   </a>
