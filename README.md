@@ -39,10 +39,6 @@ Linkedin: [in/brauliosilveira](https://www.linkedin.com/in/brauliosilveira/)
   </a>
 </p>
 
-<p align="center">
-  <sub>Vanguarda | TV Master</sub>
-</p>
-
 ---
 
 ### Websites
