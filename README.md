@@ -37,13 +37,12 @@ Linkedin: [in/brauliosilveira](https://www.linkedin.com/in/brauliosilveira/)
     </a> 
 </p>
 
----
-
 ### Websites
 [www.brauliosilveira.com](https://www.brauliosilveira.com/)<br/>
 [www.botpravender.com](https://www.botpravender.com/)<br/>
 [www.venderpelowhats.com](www.venderpelowhats.com/)<br/>
 [www.atendentedigital.com](https://www.atendentedigital.com/)
 
+---
 
 💡 Note: I build proprietary SaaS and revenue systems. Therefore, 95% of my historical commits reside in private GitLab/Bitbucket instances under NDA. The repositories below serve as architectural demonstrations of my work.
