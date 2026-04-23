@@ -8,7 +8,7 @@ I build automation systems and AI-driven architectures that connect sales, suppo
 
 YouTube: [Vender pelo Whats](https://www.youtube.com/@venderpelowhats?sub_confirmation=1)
 <br/>
-Instagram: [@brauliosilveira](https://instagram.com/brauliosilveira)
+Linkedin: [https://linkedin.com/in/brauliosilveira]([https://instagram.com/brauliosilveira](https://www.linkedin.com/in/brauliosilveira/))
 <br/>
 
 <p align="left">
