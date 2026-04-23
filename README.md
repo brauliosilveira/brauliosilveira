@@ -8,10 +8,10 @@ I build automation systems and AI-driven architectures that connect sales, suppo
 
 <p>
   <a href="https://www.youtube.com/watch?v=cpebRy3KUG0">
-    <img src="https://ytcards.demolab.com/?id=cpebRy3KUG0&title=Live+TV+Interview+%7C+Guest+Expert+on+Artificial+Intelligence&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=2&width=400&border_radius=10" />
+    <img src="https://ytcards.demolab.com/?id=cpebRy3KUG0&title=Live+TV+Interview+%7C+Guest+Expert+on+Artificial+Intelligence&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=2&width=400" />
   </a>
   <a href="https://www.youtube.com/watch?v=mtMNN4qEMl8">
-    <img src="https://ytcards.demolab.com/?id=mtMNN4qEMl8&title=%231+Ranked+Video+on+this+topic+in+Brazil+%7C+%2B14k+Subscribe&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=400&border_radius=10" />
+    <img src="https://ytcards.demolab.com/?id=mtMNN4qEMl8&title=%231+Ranked+Video+on+this+topic+in+Brazil+%7C+%2B14k+Subscribe&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=400" />
   </a>
 </p>
 
