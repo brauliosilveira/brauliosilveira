@@ -6,6 +6,15 @@
 
 I build automation systems and AI-driven architectures that connect sales, support and operations — turning manual processes into scalable business systems.
 
+<p>
+  <a href="https://www.youtube.com/watch?v=cpebRy3KUG0">
+    <img src="https://ytcards.demolab.com/?id=cpebRy3KUG0&title=Live+TV+Interview+%7C+Guest+Expert+on+Artificial+Intelligence&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=2&width=400&border_radius=10" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=mtMNN4qEMl8">
+    <img src="https://ytcards.demolab.com/?id=mtMNN4qEMl8&title=%231+Ranked+Video+on+this+topic+in+Brazil+%7C+%2B14k+Subscribe&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=400&border_radius=10" />
+  </a>
+</p>
+
 YouTube: [Vender pelo Whats](https://www.youtube.com/@venderpelowhats?sub_confirmation=1)
 <br/>
 Linkedin: [in/brauliosilveira](https://www.linkedin.com/in/brauliosilveira/)
@@ -26,15 +35,6 @@ Linkedin: [in/brauliosilveira](https://www.linkedin.com/in/brauliosilveira/)
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCltvPwAyho_vW2zQGdq9bPA?color=%23E05D44&logo=eye&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a> 
-</p>
-
-<p>
-  <a href="https://www.youtube.com/watch?v=cpebRy3KUG0">
-    <img src="https://ytcards.demolab.com/?id=cpebRy3KUG0&title=Live+TV+Interview+%7C+Guest+Expert+on+Artificial+Intelligence&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%230d1117&max_title_lines=2&width=400&border_radius=10" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=mtMNN4qEMl8">
-    <img src="https://ytcards.demolab.com/?id=mtMNN4qEMl8&title=%231+Ranked+Video+on+this+topic+in+Brazil+%7C+%2B14k+Subscribe&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=400&border_radius=10" />
-  </a>
 </p>
 
 ---
