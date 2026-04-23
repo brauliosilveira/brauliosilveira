@@ -28,6 +28,8 @@ Linkedin: [in/brauliosilveira](https://www.linkedin.com/in/brauliosilveira/)
     </a> 
 </p>
 
+[![Assista ao vídeo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ---
 
 ### Websites
