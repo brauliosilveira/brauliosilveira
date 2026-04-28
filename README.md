@@ -1,6 +1,3 @@
-Justo. Aqui o README completo:
-
-```markdown
 # Bráulio Silveira
 
 **`Senior Full-Stack Engineer`**
@@ -69,4 +66,3 @@ The public repositories demonstrate the architecture behind this system:
 ---
 
 💡 Note: I build proprietary SaaS and revenue systems. Therefore, 95% of my historical commits reside in private GitLab/Bitbucket instances under NDA. The repositories above serve as architectural demonstrations of my work.
-```
