@@ -4,7 +4,7 @@
 <br/>
 **`SaaS & AI Automation | WhatsApp Business Expert | +14K YouTube & ~1M views`**
 
-Front-end since **2007**, back-end since **2009**. Working with WhatsApp for business since **2014** — when it was a consumer-only app with no business features. Started automation in **2015**, the year WhatsApp Web launched. Published academic research on WhatsApp adoption in companies in **2017** — one year before WhatsApp Business officially launched. 18 years of engineering. 12 years in this specific niche.
+Working with WhatsApp for business since **2014** — when it was a consumer-only app with no business features. Started automation in **2015**, the year WhatsApp Web launched. Published academic research on WhatsApp adoption in companies in **2017** — one year before WhatsApp Business officially launched. 18 years of engineering. 12 years in this specific niche.
 
 I build automation systems and AI-driven architectures that connect sales, support and operations — turning manual processes into scalable business systems.
 
