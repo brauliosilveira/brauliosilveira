@@ -2,7 +2,7 @@
 
 **`Senior Full-Stack Engineer`**
 <br/>
-**`AI, Automation, SaaS & Revenue Systems`**
+**`SaaS & AI Automation | WhatsApp Business Expert | 14K YouTube & 1M views`**
 
 I build automation systems and AI-driven architectures that connect sales, support and operations — turning manual processes into scalable business systems.
 
