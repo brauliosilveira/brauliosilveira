@@ -1,8 +1,13 @@
+Justo. Aqui o README completo:
+
+```markdown
 # Bráulio Silveira
 
 **`Senior Full-Stack Engineer`**
 <br/>
-**`SaaS & AI Automation | WhatsApp Business Expert | 14K YouTube & 1M views`**
+**`SaaS & AI Automation | WhatsApp Business Expert | 14K YouTube & 919K views`**
+
+Front-end since **2007**, back-end since **2009**. Working with WhatsApp for business since **2014** — when it was a consumer-only app with no business features. Started automation in **2015**, the year WhatsApp Web launched. Published academic research on WhatsApp adoption in companies in **2017** — one year before WhatsApp Business officially launched. 18 years of engineering. 12 years in this specific niche.
 
 I build automation systems and AI-driven architectures that connect sales, support and operations — turning manual processes into scalable business systems.
 
@@ -37,12 +42,31 @@ Linkedin: [in/brauliosilveira](https://www.linkedin.com/in/brauliosilveira/)
     </a> 
 </p>
 
+---
+
+### 🚀 Live Product
+
+**[Bot pra Vender](https://www.botpravender.com/)** — WhatsApp sales automation SaaS · [**Try free for 3 days →**](https://www.botpravender.com/)
+
+The public repositories demonstrate the architecture behind this system:
+
+| Repository | What it covers |
+|---|---|
+| `ai-sales-automation-saas` | Core SaaS — sales automation engine |
+| `whatsapp-otp-auth-system` | WhatsApp OTP authentication flow |
+| `stripe-subscription-automation` | Stripe billing + WordPress user provisioning |
+| `ai-customer-support-automation-system` | AI support agent integrated with Chatwoot |
+| `email-automation-mautic-ses` | Email lifecycle automation (Mautic + Amazon SES) |
+
+---
+
 ### Websites
 [www.brauliosilveira.com](https://www.brauliosilveira.com/)<br/>
 [www.botpravender.com](https://www.botpravender.com/)<br/>
-[www.venderpelowhats.com](www.venderpelowhats.com/)<br/>
+[www.venderpelowhats.com](https://www.venderpelowhats.com/)<br/>
 [www.atendentedigital.com](https://www.atendentedigital.com/)
 
 ---
 
-💡 Note: I build proprietary SaaS and revenue systems. Therefore, 95% of my historical commits reside in private GitLab/Bitbucket instances under NDA. The repositories below serve as architectural demonstrations of my work.
+💡 Note: I build proprietary SaaS and revenue systems. Therefore, 95% of my historical commits reside in private GitLab/Bitbucket instances under NDA. The repositories above serve as architectural demonstrations of my work.
+```
